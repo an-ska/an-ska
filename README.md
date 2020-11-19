@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a frontend developer from Poland, currently living and working in Wrocław. 
+
+Willing to further develop skills in Vue, React and writing unit & e2e tests :heart:
+
+
 <!--
 **an-ska/an-ska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
