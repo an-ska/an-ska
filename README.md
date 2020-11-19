@@ -1,8 +1,10 @@
-### Hi there 👋
+# Hello world! 👋
 
-I'm a frontend developer from Poland, currently living and working in Wrocław. 
+I'm a frontend developer from Poland, currently living & working in Wrocław.
 
 Willing to further develop skills in Vue, React and writing unit & e2e tests :heart:
+
+You can reach me via <a href="https://www.linkedin.com/in/anna-prokopiuk/"><img src="./linkedin-box-fill.svg" alt="" align="center" /></a>
 
 
 <!--
