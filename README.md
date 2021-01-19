@@ -6,7 +6,7 @@ Willing to further develop skills in <img src="vuejs-fill.svg" alt="" align="cen
 
 You can reach me via <a href="https://www.linkedin.com/in/anna-prokopiuk/"><img src="./linkedin-box-fill.svg" alt="" align="center" /></a>
 
-
+🔭 Ps. I’m currently working on <a href="https://github.com/an-ska/shopping-list">ShoppingList App</a> 😄
 <!--
 **an-ska/an-ska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
