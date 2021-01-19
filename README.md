@@ -2,7 +2,7 @@
 
 I'm a frontend developer from Poland, currently living & working in Wrocław.
 
-Willing to further develop skills in <img src="vuejs-fill.svg" alt="" align="center" />, <img src="./reactjs-line.svg" alt="" align="center" /> & writing unit&e2e tests :heart:
+Willing to further develop skills in <img src="vuejs-fill.svg" alt="" align="center" />, <img src="./reactjs-line.svg" alt="" align="center" /> & writing unit & e2e tests :heart:
 
 You can reach me via <a href="https://www.linkedin.com/in/anna-prokopiuk/"><img src="./linkedin-box-fill.svg" alt="" align="center" /></a>
 
